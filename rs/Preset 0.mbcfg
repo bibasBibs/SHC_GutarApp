@@ -1,0 +1,15 @@
+<bench ver="0">
+  <dx_api>1</dx_api>
+  <res_w>2560</res_w>
+  <res_h>1440</res_h>
+  <res_idx>18</res_idx>
+  <quality>3</quality>
+  <texture_filtering>1</texture_filtering>
+  <physx>1</physx>
+  <tesselation>3</tesselation>
+  <ssaa>1</ssaa>
+  <blur_level>1</blur_level>
+  <vsync>0</vsync>
+  <scene>0</scene>
+  <runs>3</runs>
+</bench>

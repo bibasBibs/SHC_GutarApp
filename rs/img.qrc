@@ -1,0 +1,14 @@
+<RCC>
+  <qresource>
+    <file>chrome_ksF4vRl33M-Photoroom.png</file>
+    <file>png-klev-club-b7md-p-kniga-mainkraft-png-10.png</file>
+    <file>pixil-frame-0 (3).png</file>
+    <file>pixil-frame-0 (2).png</file>
+    <file>__38985132.png</file>
+    <file>pixel-art__7ebd4e43.png</file>
+    <file>__52230446.png</file>
+    <file>__3ab4d38b.png</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+  <qresource prefix="newPrefix"/>
+</RCC>
